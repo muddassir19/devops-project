@@ -1,1 +1,3 @@
-init
+this is commit
+git version control sysytem
+fetch 
