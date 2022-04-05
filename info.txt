@@ -1,1 +1,2 @@
-init
+git is fast
+git is distributed version control
