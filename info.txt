@@ -1,8 +1,5 @@
 <<<<<<< HEAD
 this is commit
 git version control sysytem
-fetch 
-=======
-git is fast
+fetch
 git is distributed version control
->>>>>>> refs/remotes/origin/main
