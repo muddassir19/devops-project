@@ -3,3 +3,4 @@ this is commit
 git version control sysytem
 fetch
 git is distributed version control
+fetch doenit integrate in local repo
