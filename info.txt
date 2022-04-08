@@ -3,3 +3,5 @@ this is commit
 git version control sysytem
 fetch
 git is distributed version control
+git conflicts and resolving conflicts
+git conflicts
