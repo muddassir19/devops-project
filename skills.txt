@@ -2,3 +2,4 @@ Jenkins
 Git
 Docker
 Ansible
+checkout
