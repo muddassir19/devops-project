@@ -4,3 +4,4 @@ Docker
 Ansible
 checkout
 feature branch new 
+to check fetch command
